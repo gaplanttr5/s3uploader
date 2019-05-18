@@ -1,3 +1,8 @@
+all:
+	make credential
+	make setup
+	make run
+
 setup:
 	docker build -t sample .
 
