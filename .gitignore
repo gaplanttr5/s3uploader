@@ -1,0 +1,5 @@
+.env
+accessKeys.csv
+s3uploader.iml
+.idea
+.ssh
